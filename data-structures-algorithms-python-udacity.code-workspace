@@ -1,11 +1,13 @@
 {
   "folders": [
     {
-      "name": "Root",
-      "path": "."
+      "name": "Python",
+      "path": "python"
+    },
+    {
+      "name": "Javascript",
+      "path": "javascript"
     }
   ],
-  "settings": {
-    "python.pythonPath": "C:\\Users\\maneptha\\Miniconda3\\envs\\plain372\\python.exe"
-  }
+  "settings": {}
 }
