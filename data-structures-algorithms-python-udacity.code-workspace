@@ -1,0 +1,11 @@
+{
+  "folders": [
+    {
+      "name": "Root",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "python.pythonPath": "C:\\Users\\maneptha\\Miniconda3\\envs\\plain372\\python.exe"
+  }
+}

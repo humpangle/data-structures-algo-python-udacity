@@ -1,0 +1,40 @@
+data-structures-algorithms-python-udacity
+
+Efficiency = complexity = how well you are using your computer to get your job done
+
+types of efficiency
+===
+time = how long
+space = how much memory
+
+
+Big O notations
+===
+n = length of input to my function
+
+O(log n)
+O(n)
+O(n^3)
+O(n^2)
+O(1) = O(0*n + 1)
+O(sqrt(n))
+O(n log n)
+
+	Worst case
+	=====
+Imagine you need to search thru letter of the alphabet
+A,B,C.........X,Y,Z ----- worst case = 26
+|
+|				|
+best	 average
+case	 case = 13
+= 1
+
+advantages of arrays over list
+====================
+1. access is great
+
+demerits of arrays over list
+=====
+insertion and deletion not great
+insertion only great at the end, but no where else
