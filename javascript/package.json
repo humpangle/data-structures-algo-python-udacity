@@ -1,0 +1,13 @@
+{
+  "name": "data-structures-algorithms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.0.0"
+  },
+  "scripts": {
+    "test": "jest --watchAll --runInBand",
+    "test-cover": "jest --coverage --no-cache --runInBand"
+  }
+}
