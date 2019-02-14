@@ -38,3 +38,10 @@ demerits of arrays over list
 =====
 insertion and deletion not great
 insertion only great at the end, but no where else
+
+
+Tree
+===
+DFS
+Pre-order = check off parent before children
+in-order = check off beginning from left last child then back up to parent and then move to right child
